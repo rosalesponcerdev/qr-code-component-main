@@ -2,9 +2,9 @@ name: Desplegar estáticos
 
 on:
   push:
-    branches: ["prod-ec2"]
+    branches: ["dev","prod-ec2"]
   pull_request:
-    branches: ["prod-ec2"]
+    branches: ["dev","prod-ec2"]
 
 
 jobs:
