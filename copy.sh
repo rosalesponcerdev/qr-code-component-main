@@ -1,4 +1,5 @@
-rm -r /etc/nginx/html/qr-code-component-main/*
+rm -r /etc/nginx/html/qr-code-component-main/
+mkdir /etc/nginx/html/qr-code-component-main
 
 mkdir img css js
 
