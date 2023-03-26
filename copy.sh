@@ -1,0 +1,1 @@
+cp -rf ./css/* ./css/images/* ./css/js/* index.html /etc/nginx/html/qr-code-component-main/
